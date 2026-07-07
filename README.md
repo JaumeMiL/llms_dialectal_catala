@@ -106,7 +106,7 @@ L’informe complet està disponible al repositori:
 
 ### Context acadèmic
 
-Jaume Mora Ladària
-Models Grans de Llenguatge (MGL)
-Grau en Intel·ligència Artificial
-Universitat Politècnica de Catalunya (UPC)
+- Jaume Mora Ladària
+- Models Grans de Llenguatge (MGL)
+- Grau en Intel·ligència Artificial
+- Universitat Politècnica de Catalunya (UPC)
